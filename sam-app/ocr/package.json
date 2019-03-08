@@ -1,0 +1,15 @@
+{
+  "name": "ocr",
+  "version": "1.0.0",
+  "description": "OCR",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "msroz",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.6.0",
+    "okrabyte": "^0.1.1"
+  }
+}
